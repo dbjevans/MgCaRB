@@ -1,6 +1,6 @@
 MgCaRB: Compute salinity and pH adjusted planktonic Mg/Ca SST
 
-Very quick start guide. Type: help MgCaRB
+Very quick start guide. Type: help MgCaRB_v1
 at the command line for further details.
 
 
